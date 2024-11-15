@@ -7,9 +7,9 @@
 <hr>
 
 <h2>🛠 Latest Work</h2>
-<h3>Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models</h3>
+<h3>SPVD: Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models</h3>
 <div align="center">
-  <img src="assets/SPVD.gif" alt="SPVD" width="400">
+  <img src="assets/SPVD.gif" alt="SPVD" style="width: 66%; max-width: 800px; height: auto;">
 </div>
 <p align="center">
   <a href="https://arxiv.org/pdf/2408.06145">📄 View Paper</a> | <a href="https://github.com/JohnRomanelis/SPVD.git">🔗 Explore Code</a>
