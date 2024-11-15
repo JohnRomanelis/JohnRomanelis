@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Ioannis Romanelis</h1>
+<h3 align="center">
+  PhD Candidate | Deep Learning & 3D Geometry <br>
+  Point Clouds, Explainability, Generative Models, Computer Vision
+</h3>
 
-<!--
-**JohnRomanelis/JohnRomanelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h2>🛠 Latest Work</h2>
+<h3>Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models</h3>
+<div align="center">
+  <img src="assets/SPVD.gif" alt="SPVD" width="400">
+</div>
+<p align="center">
+  <a href="https://arxiv.org/pdf/2408.06145">📄 View Paper</a> | <a href="https://github.com/JohnRomanelis/SPVD.git">🔗 Explore Code</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
