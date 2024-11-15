@@ -4,7 +4,7 @@
   Point Clouds, Explainability, Generative Models, Computer Vision
 </h3>
 
-<hr>
+
 
 <h2>🛠 Latest Work</h2>
 <h3>SPVD: Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models</h3>
@@ -15,5 +15,5 @@
   <a href="https://arxiv.org/pdf/2408.06145">📄 View Paper</a> | <a href="https://github.com/JohnRomanelis/SPVD.git">🔗 Explore Code</a>
 </p>
 
-<hr>
+
 
